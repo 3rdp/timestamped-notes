@@ -3,7 +3,7 @@ Web app for taking notes on videos with timestamps
 
 ## Running the project
 Installation prerequisites:
-- Yarn or npm
+- Yarn
 
 ### Example .env file for development environment
 
